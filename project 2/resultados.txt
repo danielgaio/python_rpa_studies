@@ -1,0 +1,48 @@
+› Programação;https://www.alura.com.br/cursos-online-programacao/python
+› topic › p...;https://www.udemy.com/topic/python/
+› python;https://www.coursera.org/specializations/python
+› python;https://www.w3schools.com/python/python_intro.asp
+› learn › python;https://www.edx.org/learn/python
+› blog › o-que-e-python;https://kenzie.com.br/blog/o-que-e-python/
+› blog › programacao-python-blog;https://harve.com.br/blog/programacao-python-blog/python-para-que-serve-top-5-utilidades/
+› Python-Eficaz-Maneiras-...;https://www.amazon.com.br/Python-Eficaz-Maneiras-Programar-Melhor/dp/8575225103
+› pycharm;https://www.jetbrains.com/pycharm/
+› Programação;https://www.alura.com.br/cursos-online-programacao/python
+› topic › p...;https://www.udemy.com/topic/python/
+› python;https://www.coursera.org/specializations/python
+› python;https://www.w3schools.com/python/python_intro.asp
+› learn › python;https://www.edx.org/learn/python
+› blog › o-que-e-python;https://kenzie.com.br/blog/o-que-e-python/
+› blog › programacao-python-blog;https://harve.com.br/blog/programacao-python-blog/python-para-que-serve-top-5-utilidades/
+› Python-Eficaz-Maneiras-...;https://www.amazon.com.br/Python-Eficaz-Maneiras-Programar-Melhor/dp/8575225103
+› pycharm;https://www.jetbrains.com/pycharm/
+› pyt...;https://www.codecademy.com/catalog/language/python
+› learn › p...;https://www.kaggle.com/learn/python
+› visualize;https://pythontutor.com/visualize.html
+› onlin...;https://www.programiz.com/python-programming/online-compiler/
+› indivi...;https://www.anaconda.com/products/individual
+;https://realpython.com/
+› course › pyt...;https://www.datascienceacademy.com.br/course/python-fundamentos
+› courses;https://www.datacamp.com/courses/intro-to-python-for-data-science
+;https://scikit-learn.org/
+;https://pythoninstitute.org/
+› course;https://www.udacity.com/course/introduction-to-python--ud1110
+› py...;https://www.tutorialspoint.com/python/index.htm
+› docs;https://code.visualstudio.com/docs/languages/python
+› p...;https://www.geeksforgeeks.org/python-programming-language/
+;https://micropython.org/
+;https://www.learnpython.org/
+;https://www.py4e.com/
+› tracks › python;https://exercism.org/tracks/python
+› docs;https://learnxinyminutes.com/docs/python/
+› paths;https://www.pluralsight.com/paths/core-python
+;https://py.processing.org/
+;https://pandas.pydata.org/
+› resources;https://opensource.com/resources/python
+› docs › p...;https://cloud.google.com/appengine/docs/python
+› downloads;https://dev.mysql.com/downloads/connector/python/
+;https://python-gtk-3-tutorial.readthedocs.io/
+› modules;https://docs.microsoft.com/en-us/learn/modules/intro-to-python/
+› qt-for-python;https://www.qt.io/qt-for-python
+› edu;https://developers.google.com/edu/python
+› Python;https://www.reddit.com/r/Python/
