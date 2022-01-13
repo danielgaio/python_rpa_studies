@@ -1,48 +1,24 @@
-› Programação;https://www.alura.com.br/cursos-online-programacao/python
-› topic › p...;https://www.udemy.com/topic/python/
-› python;https://www.coursera.org/specializations/python
-› python;https://www.w3schools.com/python/python_intro.asp
-› learn › python;https://www.edx.org/learn/python
-› blog › o-que-e-python;https://kenzie.com.br/blog/o-que-e-python/
-› blog › programacao-python-blog;https://harve.com.br/blog/programacao-python-blog/python-para-que-serve-top-5-utilidades/
-› Python-Eficaz-Maneiras-...;https://www.amazon.com.br/Python-Eficaz-Maneiras-Programar-Melhor/dp/8575225103
-› pycharm;https://www.jetbrains.com/pycharm/
-› Programação;https://www.alura.com.br/cursos-online-programacao/python
-› topic › p...;https://www.udemy.com/topic/python/
-› python;https://www.coursera.org/specializations/python
-› python;https://www.w3schools.com/python/python_intro.asp
-› learn › python;https://www.edx.org/learn/python
-› blog › o-que-e-python;https://kenzie.com.br/blog/o-que-e-python/
-› blog › programacao-python-blog;https://harve.com.br/blog/programacao-python-blog/python-para-que-serve-top-5-utilidades/
-› Python-Eficaz-Maneiras-...;https://www.amazon.com.br/Python-Eficaz-Maneiras-Programar-Melhor/dp/8575225103
-› pycharm;https://www.jetbrains.com/pycharm/
-› pyt...;https://www.codecademy.com/catalog/language/python
-› learn › p...;https://www.kaggle.com/learn/python
-› visualize;https://pythontutor.com/visualize.html
-› onlin...;https://www.programiz.com/python-programming/online-compiler/
-› indivi...;https://www.anaconda.com/products/individual
-;https://realpython.com/
-› course › pyt...;https://www.datascienceacademy.com.br/course/python-fundamentos
-› courses;https://www.datacamp.com/courses/intro-to-python-for-data-science
-;https://scikit-learn.org/
-;https://pythoninstitute.org/
-› course;https://www.udacity.com/course/introduction-to-python--ud1110
-› py...;https://www.tutorialspoint.com/python/index.htm
-› docs;https://code.visualstudio.com/docs/languages/python
-› p...;https://www.geeksforgeeks.org/python-programming-language/
-;https://micropython.org/
-;https://www.learnpython.org/
-;https://www.py4e.com/
-› tracks › python;https://exercism.org/tracks/python
-› docs;https://learnxinyminutes.com/docs/python/
-› paths;https://www.pluralsight.com/paths/core-python
-;https://py.processing.org/
-;https://pandas.pydata.org/
-› resources;https://opensource.com/resources/python
-› docs › p...;https://cloud.google.com/appengine/docs/python
-› downloads;https://dev.mysql.com/downloads/connector/python/
-;https://python-gtk-3-tutorial.readthedocs.io/
-› modules;https://docs.microsoft.com/en-us/learn/modules/intro-to-python/
-› qt-for-python;https://www.qt.io/qt-for-python
-› edu;https://developers.google.com/edu/python
-› Python;https://www.reddit.com/r/Python/
+› daniel;https://www.vagalume.com.br/daniel/
+› cantordaniel;https://twitter.com/cantordaniel
+› daniel;https://www.letras.mus.br/daniel/
+› daniel_p3219;https://www.purepeople.com.br/famosos/daniel_p3219
+› artist;https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM
+› daniel;https://www.cifraclub.com.br/daniel/
+› futebol › daniel;https://internacional.com.br/futebol/daniel
+› daniel;https://www.vagalume.com.br/daniel/
+› cantordaniel;https://twitter.com/cantordaniel
+› daniel;https://www.letras.mus.br/daniel/
+› daniel_p3219;https://www.purepeople.com.br/famosos/daniel_p3219
+› artist;https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM
+› daniel;https://www.cifraclub.com.br/daniel/
+› futebol › daniel;https://internacional.com.br/futebol/daniel
+› ultimas-noticias › tag;https://gauchazh.clicrbs.com.br/ultimas-noticias/tag/daniel/
+› Daniel-Wesley-King;https://www.amazon.com.br/Daniel-Wesley-King/dp/8579804523
+› músicas › D;https://www.kboing.com.br/daniel/
+;https://danielsouza.com.br/
+› daniel-e-roupa-nova-50;https://uhuu.com/v/daniel-e-roupa-nova-50
+› daniel-spolaor-43161933;https://br.linkedin.com/in/daniel-spolaor-43161933
+› deputados;https://www.camara.leg.br/deputados/204409
+› Famosos;https://www.ofuxico.com.br/famosos/daniel/
+› futebol › artigo › evra-revel...;https://www.espn.com.br/futebol/artigo/_/id/9774534/evra-revela-desabafo-daniel-alves-sobre-psg-faz-alerta-futuro-mbappe
+;https://www.danielcady.com.br/
