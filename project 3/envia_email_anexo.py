@@ -19,9 +19,24 @@ msg['To'] = to_addr
 msg['Subject'] = 'Venha conhecer nosso restaurante!'
 
 # corpo do e-mail
-body = ''' Inauguração do nosso restaurante essa noite, venha conhecer. '''
+body = '''
+  Este é o texto do corpo do e-mail.
+'''
 
 msg.attach(MIMEText(body, 'plain'))
+
+# anexo
+file_name = 'Panfleto.pdf'
+anexo = open(file_name, 'rb')
+
+# preparar objeto de anexo
+payload = MIMEBase('application', 'octet-stream')
+payload.set_payload((anexo).read())
+encoders.encode_base64(payload)
+payload.add_header('Content-Disposition',
+                   'attachment; filename={}'.format(file_name))
+
+msg.attach(payload)
 
 # servidor SMTP
 s = smtplib.SMTP('smtp.gmail.com', 587)
