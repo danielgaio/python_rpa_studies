@@ -9,4 +9,5 @@ Para rodar cada projeto deve ser criado um ambiente virtual (venv) separado.
 Ativar ambiente virtual:
 
 > source env_p2/bin/activate
-> onde 'env_p2' é o nome do ambiente virtual.
+
+onde 'env_p2' é o nome do ambiente virtual.
